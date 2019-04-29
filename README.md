@@ -1,7 +1,7 @@
 
 ### Robotics
 * [Arduino PI Motor Control](https://github.com/apetsiuk/Arduino-PI-Motor-Control) <br/> 
-	*PWM-based DC motor PI control implemented on Arduino UNO*
+	*<font color="#666666">PWM-based DC motor PI control implemented on Arduino UNO</font>*
 * [Observer Feedback Control System with Arduino](https://github.com/apetsiuk/Arduino-Observer-Feedback-Motor-Control) <br/> 
 	*PWM-based observer feedback DC motor control implemented on Arduino UNO*
 * [Robotics Quadrathlon](https://github.com/apetsiuk/Raccoon) <br/>
@@ -18,15 +18,17 @@
 	*Two-Dimensional Data Whitening and Receiver Operational Characteristic Determination*
 
 ### Deep Learning
+* &nbsp;
 
 ### Optics
 * [4F Optical Correlator Simulation](https://github.com/apetsiuk/4F-Optical-Correlator-Simulation) <br/> 
 	*A Matlab simulation for a 4F Correlator system which is based on the Fourier transforming properties of lenses*
 
 ### Android
+* &nbsp;
 
 
 ___
 
 
-&nbsp; :pencil2: &nbsp;  :blue_book:
+&nbsp; :PENCIL2: &nbsp;  :BLUE_BOOK:

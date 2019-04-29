@@ -1,3 +1,12 @@
+Skill  | Level of experience
+------------- | -------------
+Linear algebra & Probability theory  | **||||||||**
+Control systems  | **||||||**
+DIY electronics and PCB design  | **|||||||**
+Android development  | **|**
+<br/>
+
+___
 
 ### Robotics
 * [Arduino PI Motor Control](https://github.com/apetsiuk/Arduino-PI-Motor-Control) <br/> 

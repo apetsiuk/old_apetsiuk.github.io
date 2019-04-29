@@ -7,29 +7,36 @@
 * [Robotics Quadrathlon](https://github.com/apetsiuk/Raccoon) <br/>
 	*A camera and a LIDAR based robotics quadrathlon with a Clearpath Jackal robot*
 * [Working with the Jackal](https://github.com/apetsiuk/Alice) <br/> 
-	*Development of an URDF sensor pod for a Jackal*
+	*Development of an URDF sensor pod for a Jackal* <br/> 
+
 ___
 
 
 ### Computer Vision
 * [MOST Centrifuge GUI](https://github.com/apetsiuk/MOST_Centrifuge_GUI) <br/> 
-	*GUI application to validate the rotational speed of an open source 3D printable centrifuge*
+	*GUI application to validate the rotational speed of an open source 3D printable centrifuge* <br/> 
+
 ___
 
 ### Machine Learning
 * [Multivariate Gaussian Hypothesis Testing](https://github.com/apetsiuk/Multivariate-Gaussian-Hypothesis-Testing) <br/> 
 	*Two-Dimensional Data Whitening and Receiver Operational Characteristic Determination*
 * Analysis of Correlated Stachastic Processes <br/> 
-	*Bit error rate plot for Gaussian and Rayleigh random processes*
+	*Bit error rate plot for Gaussian and Rayleigh random processes* <br/> 
+* Bayesian Optimization <br/> 
+	*--* <br/> 
+
 ___
 
 ### Deep Learning
-* &nbsp;
+* &nbsp; <br/> 
+
 ___
 
 ### Optics
 * [4F Optical Correlator Simulation](https://github.com/apetsiuk/4F-Optical-Correlator-Simulation) <br/> 
-	*A Matlab simulation for a 4F Correlator system which is based on the Fourier transforming properties of lenses*
+	*A Matlab simulation for a 4F Correlator system which is based on the Fourier transforming properties of lenses* <br/> 
+
 ___
 
 ### Android

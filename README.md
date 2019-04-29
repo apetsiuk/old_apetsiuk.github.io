@@ -1,19 +1,22 @@
 <style>
 table, th, td {
-  border: 1px solid #999999;
+  border: 1px dotted #999999;
   border-collapse: collapse;
 }
 th, td {
-  padding: 15px;
+  padding: 5px;
   text-align: left;
 }
 table {
   width: 100%;    
-  background-color: #f1f1c1;
+  background-color: #B0C4DE;
+  font-size: 90%;
+  color: #333333;
 }
 </style>
 
 <table>
+<tr><td><b>Skill</b></td><td><b>Level of experience</b></td></tr>
 <tr><td>C++ | OpenCV | OpenGL | VISP</td><td>||||||||||</td></tr>
 <tr><td>Python | PyTorch | Gym</td><td>||||||||</td></tr>
 <tr><td>Matlab | Simulink</td><td>||||||||||</td></tr>

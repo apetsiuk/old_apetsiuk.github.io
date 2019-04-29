@@ -1,9 +1,12 @@
-Skill  | Level of experience
-------------- | -------------
-Linear algebra & Probability theory  | **||||||||**
-Control systems  | **||||||**
-DIY electronics and PCB design  | **|||||||**
-Android development  | **|**
+<table>
+<tr><td>C++ | OpenCV | OpenGL | VISP</td><td>||||||||||</td></tr>
+<tr><td>Python | PyTorch | Gym</td><td>||||||||</td></tr>
+<tr><td>Matlab | Simulink</td><td>||||||||||</td></tr>
+<tr><td>CAD 3D design</td><td>||||||||||||</td></tr>
+<tr><td>DIY electronics and PCB design</td><td>||||||||||</td></tr>
+<tr><td>Android development</td><td>|||</td></tr>
+</table>
+
 <br/>
 
 ___

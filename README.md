@@ -2,6 +2,7 @@
 @import "compass/css3";
 
 table {
+  width: 100%;
   font-family: 'Arial';
   margin: 25px auto;
   border-collapse: collapse;
@@ -39,13 +40,17 @@ table {
 </style>
 
 <table>
-<tr><td><b>Skill</b></td><td><b>Level of experience</b></td></tr>
+<thead>
+<tr><th>Skill</th><th>Level of experience</th></tr>
+</thead>
+<tbody>
 <tr><td>C++ | OpenCV | OpenGL | VISP</td><td>||||||||||</td></tr>
 <tr><td>Python | PyTorch | Gym</td><td>||||||||</td></tr>
 <tr><td>Matlab | Simulink</td><td>||||||||||</td></tr>
 <tr><td>CAD 3D design</td><td>||||||||||||</td></tr>
 <tr><td>DIY electronics and PCB design</td><td>||||||||||</td></tr>
 <tr><td>Android development</td><td>|||</td></tr>
+</tbody>
 </table>
 
 <br/>

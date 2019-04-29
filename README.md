@@ -45,12 +45,12 @@ table {
 <tr><th><b>Skill</b></th><th><b>Level of experience</b></th></tr>
 </thead>
 <tbody>
-<tr><td>C++ | OpenCV | OpenGL | VISP</td><td>||||||||||</td></tr>
-<tr><td>Python | PyTorch | Gym</td><td>||||||||</td></tr>
-<tr><td>Matlab | Simulink</td><td>||||||||||</td></tr>
-<tr><td>CAD 3D design</td><td>||||||||||||</td></tr>
-<tr><td>DIY electronics and PCB design</td><td>||||||||||</td></tr>
-<tr><td>Android development</td><td>|||</td></tr>
+<tr><td>C++ | OpenCV | OpenGL | VISP</td><td>&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;</td></tr>
+<tr><td>Python | PyTorch | Gym</td><td>&bull;&bull;&bull;&bull;&bull;&bull;&bull;</td></tr>
+<tr><td>Matlab | Simulink</td><td>&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;</td></tr>
+<tr><td>CAD 3D design</td><td>&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;</td></tr>
+<tr><td>DIY electronics and PCB design</td><td>&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;</td></tr>
+<tr><td>Android development</td><td>&bull;&bull;</td></tr>
 </tbody>
 </table>
 

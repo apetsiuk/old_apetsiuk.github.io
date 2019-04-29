@@ -1,13 +1,13 @@
 <style>
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid #999999;
   border-collapse: collapse;
 }
 th, td {
   padding: 15px;
   text-align: left;
 }
-table#t01 {
+table {
   width: 100%;    
   background-color: #f1f1c1;
 }

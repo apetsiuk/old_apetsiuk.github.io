@@ -4,10 +4,10 @@
 table {
   width: 100%;
   font-family: 'Arial';
-  margin: 25px auto;
+  margin: 15px auto;
   border-collapse: collapse;
-  border: 1px solid #eee;
-  border-bottom: 2px solid #00cccc;
+  border: 1px dotted #eee;
+  border-bottom: 2px solid #333;
   box-shadow: 0px 0px 20px rgba(0,0,0,0.10),
      0px 10px 20px rgba(0,0,0,0.05),
      0px 20px 20px rgba(0,0,0,0.05),
@@ -18,20 +18,21 @@ table {
       
       td {
         color: #555;
+        font-size: 10px;
       }
     }
   }
   th, td {
     color: #999;
-    border: 1px solid #eee;
-    padding: 12px 35px;
+    border: 1px dotted #eee;
+    padding: 5px 10px;
     border-collapse: collapse;
   }
   th {
     background: #00cccc;
     color: #fff;
     text-transform: uppercase;
-    font-size: 12px;
+    font-size: 10px;
     &.last {
       border-right: none;
     }
@@ -41,7 +42,7 @@ table {
 
 <table>
 <thead>
-<tr><th>Skill</th><th>Level of experience</th></tr>
+<tr><th><b>Skill</b></th><th><b>Level of experience</b></th></tr>
 </thead>
 <tbody>
 <tr><td>C++ | OpenCV | OpenGL | VISP</td><td>||||||||||</td></tr>

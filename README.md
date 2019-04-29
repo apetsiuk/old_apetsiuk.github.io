@@ -1,3 +1,18 @@
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+table#t01 {
+  width: 100%;    
+  background-color: #f1f1c1;
+}
+</style>
+
 <table>
 <tr><td>C++ | OpenCV | OpenGL | VISP</td><td>||||||||||</td></tr>
 <tr><td>Python | PyTorch | Gym</td><td>||||||||</td></tr>
